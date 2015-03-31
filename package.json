@@ -1,0 +1,30 @@
+{
+  "name": "smyrna-faker",
+  "version": "1.0.0",
+  "description": "creates fake data about location",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackkara/smyrna-faker"
+  },
+  "keywords": [
+    "location",
+    "position",
+    "geofencing",
+    "tracking",
+    "fake",
+    "dummy"
+  ],
+  "author": "Mustafa <karamusti@gmail.com> (mustafa@mustafa.be)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackkara/smyrna-faker/issues"
+  },
+  "homepage": "https://github.com/blackkara/smyrna-faker",
+  "dependencies": {
+    "smyrna-sentence": "^1.0.1"
+  }
+}
